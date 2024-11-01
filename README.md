@@ -5,10 +5,10 @@ Immerse yourself in the "Realms of Kayos", an upcoming captivating 3D voxel-base
 
 Do you dare to start your quest? See the information provided below to get ready.
 
-* [Veauxaeun Studios Portfolio](https://veauxaeunstudios.github.io/Portfolio/)
-* [FusionTable-Map-Template](https://github.com/derekeder/FusionTable-Map-Template)
-* [csvdedupe](https://github.com/datamade/csvdedupe)
-* [chi-councilmatic](https://github.com/datamade/chi-councilmatic)
+* [Veauxaeun Studios Directory](https://shor.by/VeauxaeunStudios)
+* [Want to learn how to play  the game?](https://github.com/VeauxaeunStudios/Realms-of-Kayos/wiki)
+* [Want to report an issue with the game?](https://github.com/VeauxaeunStudios/Realms-of-Kayos/issues)
+* [Want to contact us?](https://github.com/datamade/chi-councilmatic)
 
 ```
 ### Dependencies:
