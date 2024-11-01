@@ -10,70 +10,38 @@ Do you dare to start your quest? See the information provided below to get ready
 * [csvdedupe](https://github.com/datamade/csvdedupe)
 * [chi-councilmatic](https://github.com/datamade/chi-councilmatic)
 
-Usage:
-
-1. In your repository, create a new file and name it `README.md`.
-2. Copy and paste the below template in your README.md
-3. Edit the text as needed for your project
-
-**Note** Text in `*italics*` (as under `Getting started`) indicates template instructions that should be replaced with text specific to the project. Regular text (as under `Errors and bugs`) indicates a standard block of text that you can copy/paste directly.
-
-## The template
-
 ```
-# *Project title*
+### Dependencies:
 
-*Short description of your project, in one or two sentences.* 
+*This will be provided to you shortly. All dependencies will be included in installation.*
 
-## Setup 
+### Compatibility:
 
-### Dependencies
+* Linux
+* Windows
+* MacOS
+* Android
+* iOS
 
-*Provide links and descriptions for the third-party libraries you're having your users install.*
+### Getting Started:
 
-### Installation
+*We are currently working on it.*
 
-* Mac OS X
-* Ubuntu
-* Windows (if applicable)
+## Our Team:
 
-### Getting started
+* *Astrid Mayeaux, Veauxaeun Studios - Architect and Founder*
 
-*What does your user need to know to get everything ready after installation?*
-*Think about databases, config files, and settings.*
+Want to join our team? Send your resume to "VeauxaeunStudios@proton.me"! Our guaranteed minimum wage is $20 per hour paid on a weekly cycle.
 
-## Usage
-
-*Give your users a sense of the workflow for using your project/tool.*
-*For a website this might include code for running locally.*
-*For an API this might include method and parameter specs.*
-
-## Demo
-
-*Grab a simple block of code that makes use of your project/tool and paste it here.*
-
-## Team
-
-* *Name, Organization - role or tasks worked on*
-
-*Add a "contributors" section if you've incorporated pull requests.*
-
-## Errors and bugs
+## Error and Bug Reporting:
 
 If something is not behaving intuitively, it is a bug and should be reported.
-Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
+Report it here by creating an issue: https://github.com/VeauxaeunStudios/Realms-of-Kayos/issues
 
-Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
+Help us fix the problem as quickly as possible!
 
-## Patches and pull requests
 
-Your patches are welcome. Here's our suggested workflow:
- 
-* Fork the project.
-* Make your feature addition or bug fix.
-* Send us a pull request with a description of your work. Bonus points for topic branches!
+## Attribution and Copyright:
 
-## Copyright and attribution
-
-Copyright (c) 2016 DataMade. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
+Copyright (c) 2024, Veauxaeun Studios and the Veauxaeun Collective. All Rights Reserved.
 ```
