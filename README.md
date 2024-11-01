@@ -8,7 +8,7 @@ Do you dare to start your quest? See the information provided below to get ready
 * [Veauxaeun Studios Directory](https://shor.by/VeauxaeunStudios)
 * [Want to learn how to play  the game?](https://github.com/VeauxaeunStudios/Realms-of-Kayos/wiki)
 * [Want to report an issue with the game?](https://github.com/VeauxaeunStudios/Realms-of-Kayos/issues)
-* [Want to contact us?](https://github.com/datamade/chi-councilmatic)
+* [Want to contact us?](https://tr.ee/pxavzhBcVX)
 
 ```
 ### Dependencies:
