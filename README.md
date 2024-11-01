@@ -3,7 +3,7 @@ Immerse yourself in the "Realms of Kayos", an upcoming captivating 3D voxel-base
 
 ## I. Installation Guides:
 >  A. Linux:
->    1. Arch:
+    1. Arch:
 >    2. Debian:
 >    3. Ubuntu:
 >    4. Fedora:
